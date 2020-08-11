@@ -9,3 +9,4 @@
 - Java
 - React
 - Docker
+- MySQL
