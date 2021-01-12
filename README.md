@@ -1,4 +1,4 @@
-### Languages and Tools I am using
+### Languages, Technologies and Tools I am using
 
 - HTML
 - CSS
